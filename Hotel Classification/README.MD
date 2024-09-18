@@ -10,7 +10,7 @@ The cancellation of bookings impacts a hotel on various fronts:
 1. Loss of resources (revenue) when the hotel cannot resell the room.
 2. Additional costs of distribution channels by increasing commissions or paying for publicity to help sell these rooms.
 3. Lowering prices last minute, so the hotel can resell a room, reducing the profit margin.
-4. Human resources to make arrangements for the guests.
+4. Human resources to make arrangements for the guests.  
 
 **Objective**
 
