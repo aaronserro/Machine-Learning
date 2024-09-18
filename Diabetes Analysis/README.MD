@@ -7,7 +7,7 @@ A few years ago research was done on a tribe in America which is called the Pima
 Data Dictionary:
 
   Pregnancies: Number of times pregnant
-  
+   
   Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
   
   Blood pressure: Diastolic blood pressure (mm Hg)
