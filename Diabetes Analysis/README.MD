@@ -21,5 +21,5 @@ Data Dictionary:
   DiabetesPedigreeFunction: A function that scores the likelihood of diabetes based on family history
   
   Age: Age in years
-  
+   
   Outcome: Class variable (0: the person is not diabetic or 1: the person is diabetic)
